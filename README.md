@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![header](https://github.com/anespoul34/product-preview-card-component/static/assets/images/screenshot.png)
+![header](https://github.com/anespoul34/product-preview-card-component/blob/main/static/assets/images/screenshot.png)
 
 ### Links
 
