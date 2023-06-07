@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [link](https://www.frontendmentor.io/solutions/age-calculator-using-svelte-scss-mRUfqRy4Ug)
-- Live Site URL: [link](https://frontend-mentor-challenges-3j18.vercel.app/)
+- Solution URL: [link](https://www.frontendmentor.io/solutions/product-preview-card-using-svelte-and-scss-yE5PSxIpUr)
+- Live Site URL: [link](https://product-preview-card-component-psi-six.vercel.app/)
 
 ## My process
 
