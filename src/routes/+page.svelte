@@ -3,8 +3,11 @@
 
 <main>
   <div class="left">
-    <img class="desktop-img" src="./assets/images/image-product-desktop.jpg" alt="perfume" />
-    <img class="mobile-img" src="./assets/images/image-product-mobile.jpg" alt="perfume" />
+    <picture>
+      <source srcset="./assets/images/image-product-mobile.jpg"
+        media="(max-width: 768px)" />
+      <img src="./assets/images/image-product-desktop.jpg" alt="perfume"/>
+    </picture>
   </div>
   <div class="right">
     <span class="head">PERFUME</span>
@@ -37,12 +40,8 @@
 
     .left {
       width: 50%;
-      .desktop-img {
+      img {
         width: 100%;
-        display: block;
-      }
-      .mobile-img {
-        display: none;
       }
     }
     .right {
@@ -84,13 +83,6 @@
 
       .left {
         width: 100%;
-        .desktop-img {
-          display: none;
-        }
-        .mobile-img {
-          display: block;
-          width: 100%;
-        }
       }
       .right {
         width: 100%;
